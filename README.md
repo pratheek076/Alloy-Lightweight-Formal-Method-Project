@@ -20,9 +20,9 @@ To show how creating a formal specification and exploring system behaviors with 
 
 ## Key Insight
 
-Formal modeling and analysis with Alloy reveal a design flaw in the session token management module that can result in unintended access.
+Formal modeling and analysis with Alloy reveals a design flaw in the session token management module that can result in unintended access.
 
 ## How to Run
 
 1. Open the `.als` file in Alloy Analyzer (v6+).
-2. Execute the assertions to observe counterexamples and analyze system behavior.
+2. Execute the assertions to observe generated counterexamples.
